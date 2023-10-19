@@ -1,5 +1,4 @@
 import streamlit
-streamlit.title('I have a m5')
 
 streamlit.header('🥗Breakfast Menu')
 streamlit.text('🥣Omega 3 & Blueberry Oatmeal')
